@@ -5,7 +5,4 @@ module.exports = {
         "jsx-a11y",
         "import"
     ],
-    "rules": {
-        "semi": "off"
-    }
 };
